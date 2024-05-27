@@ -4,17 +4,13 @@ Herba-detox
 ## Description
 Project Name is a modern Vue.js application using Tailwind CSS for styling. This project aims to provide a responsive and user-friendly interface with a focus on clean design and high performance.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-
 ## Installation
 1. git clone https://github.com/toshko66/Herba_Detox
 2. cd Herba-detox
 3. npm install
 4. npm run dev
 
-5. 
+   
 ## Използвани технологии
 Tailwind CSS:За максимално преизползваем css реших да използвам tailwind css, благодарение на utility-first класовете и възможността за създаване на custom такива улеснява и ускорява процеса на работа.В tailwind.config.js можете да погледнете всички custom класове които използвах(Цветове,Font,Break oints, etc.).След създаването на проекта смятам, че избора на Sass би улеснил разработката от гледна точка на гъвкавост заради Custom Css, по-лесното работене със всички декоративни материали чрез използване на ::after ::before елементи и по-лесно разбиране на цялостния код.
 
